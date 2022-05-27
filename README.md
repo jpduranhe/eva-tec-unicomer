@@ -1,4 +1,4 @@
-# Evaluación Tecnica Unicomer
+# Evaluación Técnica Unicomer
 
 Esta es la resolución de la Evalución Técnica
 
