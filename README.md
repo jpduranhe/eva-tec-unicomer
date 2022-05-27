@@ -8,7 +8,7 @@ El proyecto fue construido con java 8
 
 ## Instalación 🔧
 
-Compilar Proyecto
+Compilar Proyecto realización de pruebas unitarias
 
 ```bash
 mvn clean package spring-boot:repackage
